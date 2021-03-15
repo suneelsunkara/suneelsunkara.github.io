@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 name: Suneel Sunkara
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
