@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Suneel Sunkara, Cloud Enthusiastic, Launches Site"
-date: 2014-04-30
+title: "My story so far in the Pandemic"
+date: 2021-03-15
 ---
 
 Well. Finally got around to putting my first Github website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
